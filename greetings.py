@@ -14,7 +14,8 @@ if __name__ == "__main__":
     banner()
     # --- ADD YOUR GREETING BELOW THIS LINE ---
 
-    print("Hello from aadilougradar2-commits!")
+    # This greeting identifies my contribution to Lab 4
+    print("Hello from aadilougradar2-commits - Lab 4!")
 
     
     print("Hello from tommydavies-byte")  #this is a greeting from me
